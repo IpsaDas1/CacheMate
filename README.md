@@ -28,5 +28,5 @@ The entry point of the app, showcasing:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/IpsaDas1/CacheMate.git>
 
